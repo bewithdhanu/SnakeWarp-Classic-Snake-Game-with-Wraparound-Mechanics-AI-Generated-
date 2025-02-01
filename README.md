@@ -17,7 +17,7 @@ A modern twist on the classic Snake game with wraparound mechanics and clean UI.
 ## Demo
 [Live Demo](#) *(Add your deployment link here)*
 
-![Gameplay Screenshot](/97ae06b5-e42d-4c9b-b23f-2e7afa287115.png){ width=400 }
+<img src="/97ae06b5-e42d-4c9b-b23f-2e7afa287115.png" style="width: 400px;">
 
 ## How to Play
 1. Use arrow keys (↑ ↓ ← →) for movement
